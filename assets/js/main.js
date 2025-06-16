@@ -1,4 +1,4 @@
-﻿import { CountdownTimer, generateSessionId } from './timer.js'
+﻿﻿import { CountdownTimer, generateSessionId } from './timer.js'
 
 document.addEventListener('DOMContentLoaded', () => {
   // енерация нового ID сессии при каждой загрузке
